@@ -1,0 +1,9 @@
+G:/Qt/4-qt-hboxLayout/build-qt-hboxLayout-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/qt-hboxLayout.dir
+G:/Qt/4-qt-hboxLayout/build-qt-hboxLayout-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+G:/Qt/4-qt-hboxLayout/build-qt-hboxLayout-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+G:/Qt/4-qt-hboxLayout/build-qt-hboxLayout-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+G:/Qt/4-qt-hboxLayout/build-qt-hboxLayout-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+G:/Qt/4-qt-hboxLayout/build-qt-hboxLayout-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+G:/Qt/4-qt-hboxLayout/build-qt-hboxLayout-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+G:/Qt/4-qt-hboxLayout/build-qt-hboxLayout-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/qt-hboxLayout_autogen_timestamp_deps.dir
+G:/Qt/4-qt-hboxLayout/build-qt-hboxLayout-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/qt-hboxLayout_autogen.dir
