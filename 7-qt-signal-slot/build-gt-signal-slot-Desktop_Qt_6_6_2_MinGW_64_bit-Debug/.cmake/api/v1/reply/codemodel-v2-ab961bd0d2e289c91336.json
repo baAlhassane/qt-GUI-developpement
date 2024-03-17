@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-9f4331fa013a9e23ad41.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "gt-signal-slot",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "gt-signal-slot::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gt-signal-slot-Debug-6c2eb15b64ecc4c78acb.json",
+					"name" : "gt-signal-slot",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gt-signal-slot_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gt-signal-slot_autogen-Debug-ac8d17c31b8977fc6669.json",
+					"name" : "gt-signal-slot_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gt-signal-slot_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gt-signal-slot_autogen_timestamp_deps-Debug-7ca54c36be61a5728152.json",
+					"name" : "gt-signal-slot_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "G:/Qt/7-qt-signal-slot/build-gt-signal-slot-Desktop_Qt_6_6_2_MinGW_64_bit-Debug",
+		"source" : "G:/Qt/7-qt-signal-slot/gt-signal-slot"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
