@@ -1,0 +1,17 @@
+# ninja log v5
+11	54	0	G:/Qt/qt-introduction/build-sans_titre-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	caa607ae1df0c136
+2	2705	7323179773420764	sans_titre_autogen/timestamp	6e88f4728240d6fc
+2	2705	7323179773420764	sans_titre_autogen/mocs_compilation.cpp	6e88f4728240d6fc
+2	2705	7323179773420764	G:/Qt/qt-introduction/build-sans_titre-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/sans_titre_autogen/timestamp	6e88f4728240d6fc
+2	2705	7323179773420764	G:/Qt/qt-introduction/build-sans_titre-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/sans_titre_autogen/mocs_compilation.cpp	6e88f4728240d6fc
+2706	7308	7323179821161109	CMakeFiles/sans_titre.dir/sans_titre_autogen/mocs_compilation.cpp.obj	234168a2b97f7ee1
+2711	7356	7323179821658561	CMakeFiles/sans_titre.dir/widget.cpp.obj	4f000a4deb0317ac
+2716	7387	7323179821981175	CMakeFiles/sans_titre.dir/main.cpp.obj	f3778b8be275d72d
+7388	7861	7323179826555928	sans_titre.exe	fa7aebd10b216247
+12	47	0	G:/Qt/qt-introduction/build-sans_titre-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	caa607ae1df0c136
+20	310	7323181629636875	sans_titre_autogen/timestamp	6e88f4728240d6fc
+20	310	7323181629636875	sans_titre_autogen/mocs_compilation.cpp	6e88f4728240d6fc
+20	310	7323181629636875	G:/Qt/qt-introduction/build-sans_titre-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/sans_titre_autogen/timestamp	6e88f4728240d6fc
+20	310	7323181629636875	G:/Qt/qt-introduction/build-sans_titre-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/sans_titre_autogen/mocs_compilation.cpp	6e88f4728240d6fc
+334	2934	7323181655890838	CMakeFiles/sans_titre.dir/widget.cpp.obj	4f000a4deb0317ac
+2935	3259	7323181659060068	sans_titre.exe	fa7aebd10b216247

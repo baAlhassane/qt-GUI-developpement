@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "G:/Qt/qt-label/build-QtLabel-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/QtLabel_autogen",
+	"CMAKE_BINARY_DIR" : "G:/Qt/qt-label/build-QtLabel-Desktop_Qt_6_6_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "G:/Qt/qt-label/build-QtLabel-Desktop_Qt_6_6_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "G:/Qt/qt-label/QtLabel",
+	"CMAKE_SOURCE_DIR" : "G:/Qt/qt-label/QtLabel",
+	"INCLUDE_DIR" : "G:/Qt/qt-label/build-QtLabel-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/QtLabel_autogen/include",
+	"INPUTS" : [],
+	"LOCK_FILE" : "G:/Qt/qt-label/build-QtLabel-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/QtLabel_autogen.dir/AutoRcc_qt-logo_MOBZFZABMA_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "qt_logo" ],
+	"OUTPUT_CHECKSUM" : "MOBZFZABMA",
+	"OUTPUT_NAME" : "qrc_qt-logo.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.6.2/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "G:/Qt/qt-label/build-QtLabel-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/QtLabel_autogen.dir/AutoRcc_qt-logo_MOBZFZABMA_Used.txt",
+	"SOURCE" : "G:/Qt/images/qt-logo.qrc",
+	"VERBOSITY" : 0
+}

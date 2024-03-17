@@ -1,0 +1,13 @@
+<RCC>
+    <qresource lang="francais" prefix="/image2"/>
+    <qresource prefix="/image"/>
+    <qresource prefix="/image-3">
+        <file alias="img2">qt-logo-2.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>sky-express.jpg</file>
+        <file>sky.gif</file>
+        <file>giphy.gif</file>
+    </qresource>
+    <qresource prefix="/images-4"/>
+</RCC>
